@@ -2,7 +2,7 @@ import pytest
 import sys
 import os
 from retry import retry
-sys.path.insert(1, 'c:\\Users\\daniel.pacheco\\Documents\\katas_python\\src')
+sys.path.insert(1, '')
 from ocr.ocr import OCR
 from src.providers.file.fileprov import FileProvider
 script_dir = os.path.dirname(__file__)
