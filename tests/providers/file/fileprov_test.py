@@ -1,6 +1,6 @@
 import sys
 from unittest.mock import MagicMock, mock_open, patch
-sys.path.insert(1, 'c:\\Users\\daniel.pacheco\\Documents\\katas_python\\src')
+sys.path.insert(1, '')
 from src.providers.file.fileprov import FileProvider
 from providers.providerAdapter import ProviderAdapter
 import os
