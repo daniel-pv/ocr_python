@@ -1,6 +1,6 @@
 # katas_python
 
-Katas to help python learning
+OCR module to help python learning
 
 ## Getting started
 
