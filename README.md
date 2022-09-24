@@ -1,4 +1,4 @@
-# katas_python
+# ocr_python
 
 OCR module to help python learning
 
